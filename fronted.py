@@ -1,14 +1,6 @@
 """
-A program that store this book information.
-Title,Auther
-Year,ISBN
-User can:
-view all records
-search an Entry
-add entry
-Update Entry
-delete
-Close
+ PRAGATI KUMAR
+ 
 """
 from tkinter import *
 import backend
