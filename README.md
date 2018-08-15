@@ -17,4 +17,4 @@ Close
 Tools Used:
 
 Python Intrepreter
-tinker GUI
+tkinter GUI
