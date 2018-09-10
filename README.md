@@ -3,7 +3,7 @@ Small Book Store Library
 
 """
 A program that store this book information.
-Title,Auther
+Title,Author
 Year,ISBN
 User can:
 view all records
@@ -14,7 +14,7 @@ delete
 Close
 """
 Tools Used:
-Python Intrepreter
+Python Interpreter
 tkinter GUI
 
 Database engine:
