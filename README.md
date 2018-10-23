@@ -2,7 +2,7 @@
 Small Book Store Library
 
 """
-A program that store this book information.
+This program that store  book information.
 Title,Author
 Year,ISBN
 User can:
